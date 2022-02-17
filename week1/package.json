@@ -1,0 +1,21 @@
+{
+    "name": "week1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@exiliontech/eth-node-lb-healthcheck": "^1.1.7",
+        "crypto-js": "^4.1.1",
+        "keccak256": "^1.0.6",
+        "merkle": "^0.6.0",
+        "merkletreejs": "^0.2.27",
+        "web3": "^1.7.0"
+    }
+}
