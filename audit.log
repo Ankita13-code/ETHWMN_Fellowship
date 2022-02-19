@@ -1,7 +1,0 @@
-t=2022-02-17T14:57:39+0530 lvl=info msg=Configured api=signer audit log=audit.log
-t=2022-02-17T14:57:57+0530 lvl=info msg=Version    api=signer type=request metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
-t=2022-02-17T14:57:57+0530 lvl=info msg=Version    api=signer type=response data=6.1.0 error=nil
-t=2022-02-17T15:03:05+0530 lvl=info msg=List       api=signer type=request  metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
-t=2022-02-17T15:03:14+0530 lvl=info msg=List       api=signer type=response data="[0xBc494C334338940B563bc533942978C3D58af4bb 0xe447719454582f149793bC5Da0E9498c60023eb4]"
-t=2022-02-17T15:03:29+0530 lvl=info msg=List       api=signer type=request  metadata="{\"remote\":\"NA\",\"local\":\"NA\",\"scheme\":\"ipc\",\"User-Agent\":\"\",\"Origin\":\"\"}"
-t=2022-02-17T15:03:32+0530 lvl=info msg=List       api=signer type=response data="[0xBc494C334338940B563bc533942978C3D58af4bb 0xe447719454582f149793bC5Da0E9498c60023eb4]"
